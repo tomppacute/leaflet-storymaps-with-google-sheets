@@ -139,8 +139,7 @@ a.source:visited {
   If you want to change the color, see options here: https://github.com/coryasilva/Leaflet.ExtraMarkers/blob/master/src/assets/css/leaflet.extra-markers.css
 */
 .marker-active {
-  background-position: -72px 0 !important;
-  color: violet;
+  background-position: -288px 0 !important; /*change the pixel number. it changes the color*/
 }
 
 /* Storymap logo image above the title */
